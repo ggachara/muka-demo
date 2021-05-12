@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "Had to Switch up the title see if that isht works"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
